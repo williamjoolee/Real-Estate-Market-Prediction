@@ -26,7 +26,7 @@ from sklearn import datasets, linear_model
 from sklearn.model_selection import train_test_split
 import sklearn
 from sklearn.linear_model import LinearRegression, LogisticRegression
-#from sklearn.datasets import load_
+from sklearn.datasets import load_
 
 from keras.layers import Dense
 from keras.models import Sequential
