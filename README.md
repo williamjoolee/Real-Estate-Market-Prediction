@@ -1,4 +1,4 @@
-# Prediction on Housing Price. 
+Prediction on Housing Price. 
 
 import pandas as pd
 
