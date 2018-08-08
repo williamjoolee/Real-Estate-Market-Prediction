@@ -1,11 +1,8 @@
 Prediction on Housing Price. 
 
 import pandas as pd
-
 import numpy as np
-
 import matplotlib
-
 %matplotlib inline
 
 import seaborn as sns
