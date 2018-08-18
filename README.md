@@ -1,4 +1,4 @@
-Sebastian Raschka, 2015
+Predicted housing prices by optimizing the machine learning models using Lasso, Ridge, decision tree, and random forest with predictive accuracy of 93%.
 
 Python Machine Learning - Code Examples
 
