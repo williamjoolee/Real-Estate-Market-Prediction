@@ -1,11 +1,11 @@
 Predicted housing prices by optimizing the machine learning models using Lasso, Ridge, decision tree, and random forest with predictive accuracy of 93%.
 
-Python Machine Learning - Code Examples
+Python Machine Learning
 
 
-## Chapter 3 - A Tour of Machine Learning Classifiers Using Scikit-learn
+## House Sales Pricing, IOWA using Machine Learning (Modeling - Lasso, Ridge, Random Forest, and XGBoost) 
 
-- Choosing a classification algorithm
+- Choosing algorithm
 - First steps with scikit-learn
     - Training a perceptron via scikit-learn
 - Modeling class probabilities via logistic regression
